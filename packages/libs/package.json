@@ -8,12 +8,14 @@
     "lint": "eslint *.ts*"
   },
   "dependencies": {
-    "@elysiajs/eden": "0.7.1"
+    "@elysiajs/eden": "0.7.1",
+    "@elysiajs/trpc": "0.8.0",
+    "@trpc/server": "^10.45.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.17",
     "@types/react-dom": "^18.0.6",
-    "backend": "workspace:*",
+    "@server": "workspace:*",
     "elysia": "0.7.6",
     "eslint": "^7.32.0",
     "eslint-config-custom": "workspace:*",

@@ -1,1 +1,1 @@
-export { api } from './eden'
+export { type MergedRouter, trpc } from './trpc'

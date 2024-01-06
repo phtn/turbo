@@ -10,7 +10,7 @@
   "dependencies": {
     "@elysiajs/eden": "0.7.1",
     "@elysiajs/trpc": "0.8.0",
-    "@trpc/server": "^10.45.0"
+    "@trpc/client": "latest"
   },
   "devDependencies": {
     "@types/react": "^18.0.17",
